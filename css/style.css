@@ -11,20 +11,24 @@ h1 {
     display: inline-block;
 }
 
-/* Header */
-
-
-
-/* Main */
-
-.backgorund-grigio-width {
-    width: 100%;
+body {
     background-color: rgb(65, 67, 67);
 }
 
+/* Header */
+
+header {
+    background-color: white;
+}
+
+/* Main */
+
+
+
+
 .layout {
     width: 500px;
-    margin: 0 auto 40%;
+    margin: 50px auto;
     border: 10px solid black;
     padding: 100px 50px 100px 50px;
     background-color: aqua;
