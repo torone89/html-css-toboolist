@@ -7,22 +7,25 @@
 
 /* Utility */
 
+h1 {
+    display: inline-block;
+}
+
 /* Header */
-header {
 
 
-    background-color: aqua;
-}
-
-main {
-    width: 500px;
-    margin: 0px auto 50px;
-    border: 50px solid black;
-    padding: 100px 50px 100px 50px;
-    background-color: aqua;
-}
 
 /* Main */
 
+.backgorund-grigio-width {
+    width: 100%;
+    background-color: rgb(65, 67, 67);
+}
 
+.layout {
+    width: 500px;
+    margin: 0 auto 40%;
+    border: 10px solid black;
+    padding: 100px 50px 100px 50px;
+    background-color: aqua;
 }
