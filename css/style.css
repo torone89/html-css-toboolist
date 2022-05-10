@@ -64,7 +64,11 @@ ul .cross:before {
 }
 
 
+span {
+    display: inline;
+    font-size: small;
 
+}
 
 /* Header */
 
