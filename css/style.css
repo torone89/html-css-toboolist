@@ -48,14 +48,15 @@ ul .check:before {
 }
 
 ul .cross:before {
-    content: '\02DF';
+    content: '\2717';
     color: red;
-    font-size: large;
+    font-size: larger;
     border-radius: 50%;
     border: 2px solid red;
     width: 20px;
     height: 20px;
     display: inline-block;
+
 }
 
 
