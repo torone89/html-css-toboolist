@@ -8,5 +8,21 @@
 /* Utility */
 
 /* Header */
+header {
+    width: 1000px;
+    margin: 120px auto;
+    background-color: aqua;
+}
+
+main {
+    width: 500px;
+    margin: 0px auto 50px;
+    border: 50px solid black;
+    padding: 100px 50px 100px 50px;
+    background-color: aqua;
+}
 
 /* Main */
+
+
+}
