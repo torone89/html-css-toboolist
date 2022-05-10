@@ -12,7 +12,16 @@ h1 {
 }
 
 body {
-    background-color: rgb(65, 67, 67);
+    background-color: rgb(203, 207, 207);
+}
+
+li {
+    font-size: medium;
+    color: black;
+    line-height: 10px;
+    height: 10px;
+
+
 }
 
 /* Header */
@@ -21,15 +30,28 @@ header {
     background-color: white;
 }
 
+button {
+    display: inline-block;
+}
+
 /* Main */
-
-
-
-
 .layout {
-    width: 500px;
-    margin: 50px auto;
+    width: 80%;
+
+    margin: 2% 10%;
     border: 10px solid black;
-    padding: 100px 50px 100px 50px;
-    background-color: aqua;
+    padding: 10px 20px 100px 20px;
+    background-color: rgb(252, 255, 255);
+}
+
+/* Button - Main */
+
+.task {
+    background-color: black;
+    border-radius: 20px;
+}
+
+.sect {
+    background-color: #00aef7;
+    border-radius: 20px;
 }
